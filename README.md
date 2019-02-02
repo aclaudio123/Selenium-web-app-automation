@@ -11,7 +11,7 @@ Or you can run the requirements.txt
 `pip install -r requirements.txt`
 
 For the chrome driver, you can add it to environment variable or 
-copy and paste it into a package and the relative path.
+copy and paste it into a package and then use the relative path.
 
 
 ## Running the tests
